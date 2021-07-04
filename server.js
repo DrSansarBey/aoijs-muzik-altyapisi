@@ -1,6 +1,6 @@
 const aoi = require("aoi.js");
 const bot = new aoi.Bot({
-token:"ODExMTU3MDAyNzgwMjc4Nzg1.YCuG1A.4EJPgY44RbVXHhNv7uFLhXJq49c",
+token:"TOKEN",
 prefix: "."
 }); 
 bot.onMessage()
